@@ -20,6 +20,9 @@
 </div>
 
 ---
+🔗 **相关项目**：
+- [前端项目仓库](https://github.com/wumih/EduHub-Admin-front.git)
+- [后端项目仓库](https://github.com/wumih/EduHub-Admin.git)
 
 ## 📖 项目简介
 
